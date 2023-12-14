@@ -1,5 +1,6 @@
 site_name: 'backster-docs'
 nav:
   - Home: index.md
+  - Owners: owners.md
 plugins:
   - techdocs-core
